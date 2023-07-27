@@ -803,13 +803,13 @@ color: var(--title-color);
 /*==================== FOOTER ====================*/
 .footer{
   padding: 2rem;
-  background-color: var(--first-color-second);
+  
 }
 .footer__container{
   row-gap: 3.5rem;
 }
 .footer__bg{
-  
+  background-color: var(--first-color-second);
   padding: 2rem 0 3rem;
 }
 .footer__title{
