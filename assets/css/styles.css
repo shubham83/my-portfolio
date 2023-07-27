@@ -296,7 +296,7 @@ img {
   fill: var(--first-color);
 }
 .home__blob-img{
-  width: 170px;
+  width: 200px;
 }
 .home__data{
   grid-column: 1/3;
@@ -487,7 +487,9 @@ text-align: center;
 .skills__python{
   width: 55%;
 }
-
+.skills__MongoDB{
+  width: 90%;
+}
 .skills__close .skills__list{
   height: 0;
   overflow: hidden;
@@ -801,12 +803,13 @@ color: var(--title-color);
 /*==================== FOOTER ====================*/
 .footer{
   padding: 2rem;
+  background-color: var(--first-color-second);
 }
 .footer__container{
   row-gap: 3.5rem;
 }
 .footer__bg{
-  background-color: var(--first-color-second);
+  
   padding: 2rem 0 3rem;
 }
 .footer__title{
