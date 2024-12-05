@@ -138,13 +138,13 @@ img {
 
 /*==================== REUSABLE CSS CLASSES ====================*/
 .section {
-  padding: 3rem 0 1rem;
+  padding: 2rem 0 4rem;
   color: var(--text-color-light);
+  
 }
 
 .section__title {
   font-size: var(--h1-font-size);
-  text-align: center;
 }
 
 .section__subtitle {
